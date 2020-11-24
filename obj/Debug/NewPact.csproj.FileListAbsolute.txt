@@ -1,0 +1,7 @@
+C:\dev\NewPact\NewPact\bin\Debug\NewPact.exe.config
+C:\dev\NewPact\NewPact\bin\Debug\NewPact.exe
+C:\dev\NewPact\NewPact\bin\Debug\NewPact.pdb
+C:\dev\NewPact\NewPact\obj\Debug\NewPact.csprojAssemblyReference.cache
+C:\dev\NewPact\NewPact\obj\Debug\NewPact.csproj.CoreCompileInputs.cache
+C:\dev\NewPact\NewPact\obj\Debug\NewPact.exe
+C:\dev\NewPact\NewPact\obj\Debug\NewPact.pdb
